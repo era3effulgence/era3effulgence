@@ -5,7 +5,7 @@
     "window": {
         "title": "",
         "toolbar":false ,
-        "stretchmode": true,
+        "fullscreen": true,
         "width": 1632,
         "height": 720,
         "icon": "icon/icon.png"
