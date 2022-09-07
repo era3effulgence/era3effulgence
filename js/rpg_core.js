@@ -2835,9 +2835,9 @@ Graphics._onKeyDown = function(event) {
             event.preventDefault();
             this._switchFPSMeter();
             break;
-        case 114:   // F3
+        //case 114:   // F3
             event.preventDefault();
-           // this._switchStretchMode();
+            this._switchStretchMode();
             break;
         case 115:   // F4
             event.preventDefault();
