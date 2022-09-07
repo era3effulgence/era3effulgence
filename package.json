@@ -8,7 +8,7 @@
         "width": 1632,
         "height": 720,
         "icon": "icon/icon.png"
-        "switchStretchMode":"true",
+        "AutoStretch:str":"stretch",
     }
 }
 
