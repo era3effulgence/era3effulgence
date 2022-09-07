@@ -4,7 +4,7 @@
     "js-flags": "--expose-gc",
     "window": {
         "title": "",
-        "toolbar":ture ,
+        "toolbar":false ,
         "width": 1632,
         "height": 720,
         "icon": "icon/icon.png"
