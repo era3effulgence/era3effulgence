@@ -3,7 +3,7 @@
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
-        "title": "測試",
+        "title": "",
         "toolbar":false ,
         "width": 1632,
         "height": 720,
