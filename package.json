@@ -3,8 +3,8 @@
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
-        "title": "",
-        "toolbar":true ,
+        "title": "測試",
+        "toolbar":false ,
         "width": 1632,
         "height": 720,
         "icon": "icon/icon.png"
