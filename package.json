@@ -7,6 +7,7 @@
         "toolbar":false ,
         "width": 1632,
         "height": 720,
+        "AutoStretch:str":"stretch"
         "icon": "icon/icon.png"
     }
 }
