@@ -3000,13 +3000,13 @@ Input.keyRepeatInterval = 6;
  * @type Object
  */
 Input.keyMapper = {
-    9: 'tab',       // tab
-    13: 'ok',       // enter
+   // 9: 'tab',       // tab
+   // 13: 'ok',       // enter
     16: 'shift',    // shift
     17: 'control',  // control
     18: 'control',  // alt
     27: 'escape',   // escape
-    32: 'ok',       // space
+  //  32: 'ok',       // space
     33: 'pageup',   // pageup
     34: 'pagedown', // pagedown
     37: 'left',     // left arrow
@@ -3016,8 +3016,8 @@ Input.keyMapper = {
     45: 'escape',   // insert
     81: 'pageup',   // Q
     87: 'pagedown', // W
-    88: 'escape',   // X
-    90: 'ok',       // Z
+    // 88: 'escape',   // X
+   //  90: 'ok',       // Z
     96: 'escape',   // numpad 0
     98: 'down',     // numpad 2
     100: 'left',    // numpad 4

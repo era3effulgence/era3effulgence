@@ -3,7 +3,6 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
 {"name":"ZZZ_JumpToDestination","status":true,"description":"(v1.1)瞬移至目的地","parameters":{"瞬移模式的绑定的开关id":"1"}},
 {"name":"PY_AutoSave","status":true,"description":"(v1.0)这是一款可以自动存档的插件","parameters":{"存档位置":"1","存档音效":""}},
 {"name":"TitleNewGameOnly","status":true,"description":"[ ver.2.1.0 ]讓標題畫面直接開始遊戲","parameters":{"startString":"","font":"","fileExistAction":"2","soundEffect":"{\"name\":\"\",\"volume\":\"0\",\"pitch\":\"50\",\"pan\":\"0\"}","adjustY":"0"}},

@@ -4,12 +4,10 @@
     "js-flags": "--expose-gc",
     "window": {
         "title": "",
-        "toolbar":false ,
+        "toolbar": false,
+        "stretchmode": true,
         "width": 1632,
         "height": 720,
         "icon": "icon/icon.png"
-
-       
     }
 }
-
