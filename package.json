@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "石之魂",
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
